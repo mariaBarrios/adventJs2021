@@ -1,6 +1,6 @@
-## 25 días de retos con JavaScript ¡Empezar con los retos!
+## 25 días de retos con JavaScript por @midudev
 
-(https://adventjs.dev/)[¿Podrás con todos?]
+[¿Podrás con todos?](https://adventjs.dev/)
 
 **#01. Contando ovejas para dormir**
 
