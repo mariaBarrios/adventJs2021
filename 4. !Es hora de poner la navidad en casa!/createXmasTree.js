@@ -26,4 +26,6 @@ function createXmasTree(height) {
 }
 
 const input = process.argv[2] ? +process.argv[2] : 1;
+
 console.log(createXmasTree(input));
+

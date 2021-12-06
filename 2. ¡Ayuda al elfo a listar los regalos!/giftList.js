@@ -7,7 +7,7 @@ function giftsList(letter) {
       const regex = /_/i;
       return !regex.test(letter);
     });
-    
+
   const giftList = {};
   gifts.forEach((gift) => {
     if (giftList[gift]) {
@@ -19,3 +19,5 @@ function giftsList(letter) {
 
   return giftList;
 }
+
+console.log(giftsList(" bici coche balón _playstation bici coche  peluche"));

@@ -11,3 +11,5 @@
 **#04. ¡Es hora de poner la navidad en casa!**
 
 **#05. Contando los días para los regalos**
+
+**#06. Remantando los examenes finales**
