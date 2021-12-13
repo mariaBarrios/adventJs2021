@@ -1,0 +1,22 @@
+{
+  "name": "adventjs2021",
+  "version": "1.0.0",
+  "description": "[¿Podrás con todos?](https://adventjs.dev/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaBarrios/adventJs2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaBarrios/adventJs2021/issues"
+  },
+  "homepage": "https://github.com/mariaBarrios/adventJs2021#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
